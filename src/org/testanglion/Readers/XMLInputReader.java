@@ -1,5 +1,5 @@
 package org.testanglion.Readers;
 
-public class XMLInputReader {
+public class XMLInputReader implements IReader{
 
 }

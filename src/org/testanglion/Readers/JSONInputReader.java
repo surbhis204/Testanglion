@@ -1,5 +1,5 @@
 package org.testanglion.Readers;
 
-public class JSONInputReader {
+public class JSONInputReader implements IReader{
 
 }
